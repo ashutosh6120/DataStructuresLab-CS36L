@@ -1,0 +1,94 @@
+//DATA STRUCTURES LAB EXAM QUESTION PAPER
+
+
+1. 	Define a structure to represent student with the attributes stud-id, name, marks in 3 subjects.
+	Create array of students by allocating memory dynamically and Implement the following
+	operations
+	i) Insert Student ii) Delete student iii) Search for a student with highest marks in each
+	subject and display the information of that student.
+	Display the contents of the array after each insertion and deletion operation in a table format.
+
+2. 	Implement circular single linked list with header node to perform the following operations
+	i) Insert by order ii ) Delete by position iii) Search for an item by key
+	Display the list contents after each operation
+
+3. 	Implement circular double linked list with header node to perform the following operations
+	i) Insert by order ii ) Delete by key iii) Search by position
+	Display the list contents after each operation
+
+4. 	Implement circular single linked list with header node to perform the following operations
+	i) Insert front ii ) Delete Immediate left node of the kth node iii) Search for an item by
+	position
+	Display the list contents after each operation
+
+5. 	Implement circular double linked list with header node to perform the following operations
+	i) Insert front ii ) Delete Immediate left node of the kth node iii) Search for an item
+	by position
+	Display the list contents after each operation
+
+6. 	Implement circular single linked list with header node to perform the following operations
+	ii) Insert rear ii ) Delete Immediate right node of the kth node iii) Search for an item by
+	value
+	Display the list contents after each operation
+
+7. 	Implement circular double linked list with header node to perform the following operations
+	iii) Insert rear ii ) Delete Immediate right node of the kth node iii) Search for an item by
+	value
+	Display the list contents after each operation
+
+8. 	Implement circular single linked list with header node to perform the following operations
+	iv) Insert by position ii) Delete rear iii) Search for an item by value
+	Display the list contents after each operation
+
+9. 	Implement circular double linked list with header node perform the following operations
+	i)Insert by position ii) Delete rear iii) Search for an item by value
+	Display the list contents after each operation
+
+10. Develop a menu driven program to convert infix expression to postfix expression using
+	stack (Test for nested parenthesized expressions)
+
+11. Develop a menu driven program to convert infix expression to prefix expression using
+	stack (Test for nested parenthesized expressions)
+
+12. Develop a menu driven program to evaluate the postfix and prefix expressions using stack.
+
+13. To implement Circular Queue of Jobs (where each Job is associated with the attributes: Jobid,
+	Jobname, Time required to complete the job) with dynamic memory allocation mechanism
+	using array storage representation.(Represent Queue using structure)
+
+14. To implement Priority Queue of Jobs (where each Job is associated with the attributes: Jobid,
+	Jobname, Job priority) with dynamic memory allocation mechanism using array storage
+	representation.(Represent Queue using structure)
+
+15. To implement Double Ended Queue of Jobs (where each Job is associated with the attributes:
+	Jobid, Jobname, Time required to complete the job) with dynamic memory allocation
+	mechanism using array storage representation.(Represent Queue using structure)
+
+16. Develop a menu driven program to implement Binary Tree/Binary search tree to perform the
+	following operations.
+	i) Insertion ii) Traversing in different order(Depth first Traversal) iii) Deletion
+
+17. Develop a menu driven program to implement Binary Tree/Binary search tree to perform the
+	following operations.
+	i)Insertion ii) Traversing in different order(Depth first Traversal) iii) Search and
+	display the node and its parent node. iv) Count No of Leaves
+
+18. Develop a menu driven program to implement Binary Tree/Binary search tree to perform the
+	following operations.
+	i)Insertion ii) Traversing in different order(Depth first Traversal) iii) Search and display
+	the node and its parent node. iv) Count No of non Leaves
+
+19. Develop a menu driven program to implement Binary Tree/Binary search tree to perform the
+	following operations.
+	i)Insertion ii) Traversing in different order(Depth first Traversal) iii) Search and display
+	the node and its parent node. iv) To find height
+
+20. Develop a menu driven program to implement Binary Tree/Binary search tree to perform the
+	following operations.
+	i)Insertion ii) Traversing in different order(Depth first Traversal) iii) Search and display
+	the node and its parent node. iv) Count No of nodes.
+
+21. Develop a menu driven program to implement Binary Tree/Binary search tree to perform the
+	following operations.
+	i)Insertion ii) Traversing in different order(Depth first Traversal) iii) Search and
+	display the node and its parent node. iv) To Create a copy of the tree.
