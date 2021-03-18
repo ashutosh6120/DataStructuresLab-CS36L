@@ -1,3 +1,11 @@
+/* 	Develop a menu driven program to implement Binary Tree/Binary search tree to perform the
+	following operations.
+	i)Insertion ii) Traversing in different order(Depth first Traversal) iii) Search and
+	display the node and its parent node. iv) Count No of Leaves
+
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
