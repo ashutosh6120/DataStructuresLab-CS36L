@@ -1,3 +1,11 @@
+/*	To implement Priority Queue of Jobs (where each Job is associated with the attributes: Jobid,
+	Jobname, Job priority) with dynamic memory allocation mechanism using array storage
+	representation.(Represent Queue using structure)
+*/
+
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 struct Job{
