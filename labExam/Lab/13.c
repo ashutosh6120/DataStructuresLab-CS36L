@@ -1,3 +1,12 @@
+/* 	To implement Circular Queue of Jobs (where each Job is associated with the attributes: Jobid,
+	Jobname, Time required to complete the job) with dynamic memory allocation mechanism
+	using array storage representation.(Represent Queue using structure)
+
+*/
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct Job{
